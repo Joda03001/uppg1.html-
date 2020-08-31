@@ -1,0 +1,32 @@
+p{
+    background-color: orange;
+	
+	
+	
+}
+
+h1{ 
+   color: green;
+   background-color: indigo; 
+   font-size: 300%; 
+   text-align: center; 
+   border: 22px solid gold;
+   font-family: arial; 
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+   
+    
+  
+}
+p.text { 
+ 
+ color: blue;
+text-align: center; 
+background-color:  yellow;
+
+}
+
+p.mig { 
+border: 5px solid silver;
+
+} 
