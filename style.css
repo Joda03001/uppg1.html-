@@ -30,3 +30,15 @@ p.mig {
 border: 5px solid silver;
 
 } 
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+	
+	tbody tr:nth-child(odd){background-color:Cyan ;}
+tbody tr:nth-child(even){background-color:lightGreen;}
+
+th { 
+       background-color: Red; 
+}
